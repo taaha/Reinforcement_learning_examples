@@ -1,2 +1,4 @@
 stable-baselines3[extra]
 gymnasium[all]
+autorom[accept-rom-license]
+pyglet
